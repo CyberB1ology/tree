@@ -22,8 +22,8 @@
     font-style: normal;
     font-weight: 400;
     src: local('Bikham Cyr Script'), local('BikhamCyrScript-Regular'),
-        url(http://allfont.ru/cache/fonts/bikham-cyr-script_61afe4b01dfe3e2b98ec512fe1aece7a.woff) format('woff'),
-        url(http://allfont.ru/cache/fonts/bikham-cyr-script_61afe4b01dfe3e2b98ec512fe1aece7a.ttf) format('truetype');
+        url(../fonts/bikham-cyr-script_61afe4b01dfe3e2b98ec512fe1aece7a.woff) format('woff'),
+        url(../fonts/bikham-cyr-script_61afe4b01dfe3e2b98ec512fe1aece7a.ttf) format('truetype');
 }
 
 @font-face {
@@ -31,8 +31,8 @@
     font-style: normal;
     font-weight: 200;
     src: local('Calligraph'), local('Calligraph-Regular'),
-        url(http://allfont.ru/cache/fonts/calligraph_fd4010f79ac0ac290f27647883b1ab50.woff) format('woff'),
-        url(http://allfont.ru/cache/fonts/calligraph_fd4010f79ac0ac290f27647883b1ab50.ttf) format('truetype');
+        url(../fonts/calligraph_fd4010f79ac0ac290f27647883b1ab50.woff) format('woff'),
+        url(../fonts/calligraph_fd4010f79ac0ac290f27647883b1ab50.ttf) format('truetype');
 }
 
 @font-face {
