@@ -172,12 +172,13 @@ a {
 			
 			left: 22vw;
 			top: 18vh;
+			align-items: center;
 			
 			
 		}
 
 		.gallery__item {
-			max-width: calc(var(--index) * 32);
+			max-width: calc(var(--index) * 34);
 			align-items: center;
 		}
 
@@ -187,6 +188,7 @@ a {
 			
 		}
 	  }
+
 
 
 	  /*         ------------------------------------SLIDER--------------------------------------        */
