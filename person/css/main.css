@@ -166,6 +166,28 @@ a {
 	  }
 	  
 
+	  @media only screen and (max-width : 992px) {
+ 
+		.hero {
+			
+			left: 22vw;
+			top: 18vh;
+			
+			
+		}
+
+		.gallery__item {
+			max-width: calc(var(--index) * 32);
+			align-items: center;
+		}
+
+		.main-title {
+			
+			bottom: 8vh;
+			
+		}
+	  }
+
 
 	  /*         ------------------------------------SLIDER--------------------------------------        */
 
