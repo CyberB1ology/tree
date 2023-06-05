@@ -170,7 +170,7 @@ a {
  
 		.hero {
 			
-			left: 22vw;
+			left: 8vw;
 			top: 18vh;
 			align-items: center;
 			
@@ -178,7 +178,7 @@ a {
 		}
 
 		.gallery__item {
-			max-width: calc(var(--index) * 34);
+			max-width: calc(var(--index) * 26);
 			align-items: center;
 		}
 
@@ -186,6 +186,11 @@ a {
 			
 			bottom: 8vh;
 			font-size: calc(var(--index) * 4);
+		}
+
+		.text-block__p {
+			font-size: 1.3rem;
+			
 		}
 	  }
 
